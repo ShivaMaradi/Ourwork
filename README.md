@@ -8,3 +8,5 @@ git branch basicstructures
 git checkout basicstructures
 ```
 above lines are typed inside this branch and committed using git add and commit
+
+now switch to master
