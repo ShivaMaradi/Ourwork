@@ -74,3 +74,4 @@ git add README.MD
 git commit -m "Exp 12"
 git revert
 ```
+Suppose this line is mistake if committed we must revert
